@@ -12,5 +12,5 @@
 - Opens MFMailComposer for writing mails directly if added an Email in the TextView.
 - Code in the above file is in respect to the text which is there in the below Image, you can modify text in either storyboard or swift file and ranges in swift file.
 - These are the StoryBoard settings :
-<img src="https://i.stack.imgur.com/fWbGz.png" width="300" height="800" alt="Screenshot">
+<img src="https://i.stack.imgur.com/fWbGz.png" width="250" height="800" alt="Screenshot">
 
