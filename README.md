@@ -10,3 +10,5 @@
 - This code is configured to open a Call app such that you can Caller Number in the TextView and It Automatically Detects it as a number and opens call screen,
 
 - Opens MFMailComposer for writing mails directly if added an Email in the TextView.
+- Code in the above file is in respect to the text which is there in the below Image, you can modify text in either storyboard or swift file and ranges in swift file.
+- These are the StoryBoard settings : https://i.stack.imgur.com/fWbGz.png
